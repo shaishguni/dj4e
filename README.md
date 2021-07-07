@@ -2,8 +2,11 @@
 
 This is a crash course of Django. Teaching my freind how to make website in django.
 
-# Features
-
+# Things explained in this course.
+  <dd>Explained about basic django commands like startproject and apps , migrations , test , changing port , running django app in ip etc.</dd>
+    <dd>Explained views,models,forms,admin and urls in the apps parts</dd>
+      <dd>Explained CRUD - Create, Read, Update, Delete, List in detailed and this app was a todo app with CRUD functions.</dd>
+       <dd>Explained HTML URLS(static stuffs were not explained.)</dd>
 
 
 # Local Setup
