@@ -2,14 +2,33 @@
 
 This is a crash course of Django. Teaching my freind how to make website in django.
 
+# Features
+
+
+
 # Local Setup
 
-<li>git clone https://github.com/</li>
-<li>pip install pipenv</li>
-<li>pipenv shell</li>
-<li>pip install -r requirements.txt</li>
-<li>cd techgroupportfolio\portfolio</li>
-<li>python manage.py migrate</li>
-<li>python manage.py runserver</li>
+```json
+git clone https://github.com/shaishguni/dj4e.git
+```
+```json
+virtualenv venv && source venv/bin/activate
+```
+```json
+pip install -r requirements.txt
+```
+```json
+cd dj4e
+```
+```json
+
+python manage.py migrate
+```
+```json
+python manage.py runserver
+```
+
 
 After that your are good to go.
+
+
