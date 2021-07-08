@@ -35,3 +35,4 @@ python manage.py runserver
 After that your are good to go.
 
 
+<hr/>
