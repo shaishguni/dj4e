@@ -11,23 +11,23 @@ This is a crash course of Django. Teaching my freind how to make website in djan
 
 # Local Setup
 
-```json
+```bash
 git clone https://github.com/shaishguni/dj4e.git
 ```
-```json
+```bash
 virtualenv venv && source venv/bin/activate
 ```
-```json
+```bash
 pip install -r requirements.txt
 ```
-```json
+```bash
 cd dj4e
 ```
-```json
+```bash
 
 python manage.py migrate
 ```
-```json
+```bash
 python manage.py runserver
 ```
 
